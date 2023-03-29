@@ -12,4 +12,4 @@ class Item:
 item1 = Item("Laptop", 50, 3)
 item2 = Item("Mobile", 10000, 20)
 
-print(item2.name)
+
